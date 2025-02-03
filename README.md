@@ -1,6 +1,8 @@
 <p align="center">
 </p>
 
+![Component 1](https://github.com/user-attachments/assets/76a6f67a-9138-42d2-be76-52e7f4267a34)
+
 ---
 
 <h2 align="center">
