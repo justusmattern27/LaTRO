@@ -15,7 +15,7 @@ Attention is All You Need
   <br />
   | <a href=""><b>Jakob Uszkoreit</b></a> 
   | <a href=""><b>Llion Jones</b></a> |
-  <a href=""><b>Aidan N. Gomez</b></a> 
+  <a href=""><b>Aidan N. Gomez</b></a> |
   <br />
   | <a href=""><b>Łukasz Kaiser</b></a> |
   <a href=""><b>Illia Polosukhin</b></a> |
