@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-![Component 1](https://github.com/user-attachments/assets/76a6f67a-9138-42d2-be76-52e7f4267a34)
+![Group 3](https://github.com/user-attachments/assets/0f45cc41-73ee-49e2-add9-beb63e77fa2b)
 
 ---
 
